@@ -8,8 +8,13 @@
 
 <style>
     .field-container {
-        width: 33%;
-        height: 33%;
+        width: 125px;
+        height: 125px;
         border: 1px black solid;
+        flex: 1;
+        font-size: 75px;
+        text-align: center;
+        line-height: 125px;
+        cursor: pointer;
     }
 </style>
